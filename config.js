@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'book',
 			id: '2',
 			links: [
 				{
@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Campus Virtual',
+					link: 'https://www.fidelitasvirtual.org/moodle3/login/index.php',
 				},
 				{
 					name: 'Trello',
