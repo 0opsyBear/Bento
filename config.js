@@ -29,7 +29,7 @@ const CONFIG = {
 	//weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
 	//weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	//weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
+	//language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '37.775',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'ArchWiki',
+			icon: 'shell',
+			link: 'https://archlinux.org/',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -135,12 +135,12 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'notebook',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Udemy',
+					link: 'https://www.udemy.com/es/',
 				},
 				{
 					name: 'Classic',
@@ -161,16 +161,16 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Office365',
+					link: 'https://www.office.com/',
 				},
 				{
 					name: 'Campus Virtual',
 					link: 'https://www.fidelitasvirtual.org/moodle3/login/index.php',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Sistema Académico',
+					link: 'https://sam.ufidelitas.ac.cr/',
 				},
 				{
 					name: 'Slack',
