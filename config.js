@@ -143,8 +143,8 @@ const CONFIG = {
 					link: 'https://www.udemy.com/es/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hack the Box',
+					link: 'https://academy.hackthebox.com/login',
 				},
 				{
 					name: 'Oldies',
